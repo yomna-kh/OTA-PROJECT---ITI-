@@ -1,2 +1,1 @@
-# Sender Overview
-This sender module is responsible for initiating the update process, establishing communication with the target device, and transmitting the firmware update data.
+
